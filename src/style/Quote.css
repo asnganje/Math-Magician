@@ -1,0 +1,38 @@
+.quoteInfo {
+  width: 90%;
+  margin: 8rem auto;
+  font-size: 1rem;
+  border-radius: 8px;
+  padding: 2rem 3rem;
+  margin-bottom: 1.5rem;
+  background: #e0e0e0;
+  box-shadow: 6px -6px 8px #9d9d9d, -6px 6px 8px #fff;
+}
+
+.quoteInfo p {
+  text-align: center;
+  font-style: italic;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.quoteInfo span {
+  display: block;
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+@media (min-width: 768px) {
+  .quoteInfo {
+    height: 300px;
+    width: 60%;
+  }
+
+  .quoteInfo p {
+    margin-top: 5rem;
+    font-size: 2rem;
+  }
+}
