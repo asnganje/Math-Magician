@@ -4,7 +4,7 @@ This is a single Page Application (SPA) website that allows users to perform bas
 
 ## Live link 
 
-[Live Link](https://phenomenal-sunflower-40c413.netlify.app/Calculator)
+[Live Link](https://phenomenal-sunflower-40c413.netlify.app/)
 
 ## Built With
 
